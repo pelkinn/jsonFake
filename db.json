@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "test": {
+    "fruit": "banan",
+    "vegetable": "tomato"
   }
 }
