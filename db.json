@@ -1,33 +1,31 @@
- {
-    "type": "o",
-    "date": "2020-01-06 10:37:59",
-    "currency": "KZT",
-    "amount": "3.86",
-    "info": {
-      "item_id": "knowledge_t",
-      "card_type": "MasterCard",
-      "card_num": "546917**6913"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
-  },
-  {
-    "type": "o",
-    "date": "2020-01-06 10:37:38",
-    "currency": "KZT",
-    "amount": "3.86",
-    "info": {
-      "item_id": "knowledge_t",
-      "card_type": "MIR",
-      "card_num": "220220**8467"
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
-  },
-  {
-    "type": "o",
-    "date": "2020-01-06 10:30:58",
-    "currency": "KZT",
-    "amount": "11577.96",
-    "info": {
-      "item_id": "knowledge_1",
-      "card_type": "Visa",
-      "card_num": "424242**4242"
-    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
