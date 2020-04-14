@@ -1,7 +1,7 @@
 {
-  "style": {
-    "bg-color": "cyan",
-    "color": "#FF000",
-    "fz": "15px"
-  }
+	"style": {
+		"bg-color": "cyan",
+		"color": "#FF000",
+		"fz": "15px"
+	}
 }
